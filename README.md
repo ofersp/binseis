@@ -3,7 +3,7 @@ Binary Seismology MATLAB Toolbox
 
 This MATLAB toolbox accompanies the paper:
 
-Springer, Ofer M., and Nir J. Shaviv. "Asteroseismic effects in close binary stars."  
+Ofer M. Springer, Nir J. Shaviv. "Asteroseismic effects in close binary stars."  
 Monthly Notices of the Royal Astronomical Society (2013).
 
 Preprint available here:  
